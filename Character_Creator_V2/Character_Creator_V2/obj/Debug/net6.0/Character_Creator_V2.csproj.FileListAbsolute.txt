@@ -1,0 +1,15 @@
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\bin\Debug\net6.0\Character_Creator_V2.exe
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\bin\Debug\net6.0\Character_Creator_V2.deps.json
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\bin\Debug\net6.0\Character_Creator_V2.runtimeconfig.json
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\bin\Debug\net6.0\Character_Creator_V2.dll
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\bin\Debug\net6.0\ref\Character_Creator_V2.dll
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\bin\Debug\net6.0\Character_Creator_V2.pdb
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\obj\Debug\net6.0\Character_Creator_V2.csproj.AssemblyReference.cache
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\obj\Debug\net6.0\Character_Creator_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\obj\Debug\net6.0\Character_Creator_V2.AssemblyInfoInputs.cache
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\obj\Debug\net6.0\Character_Creator_V2.AssemblyInfo.cs
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\obj\Debug\net6.0\Character_Creator_V2.csproj.CoreCompileInputs.cache
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\obj\Debug\net6.0\Character_Creator_V2.dll
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\obj\Debug\net6.0\ref\Character_Creator_V2.dll
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\obj\Debug\net6.0\Character_Creator_V2.pdb
+C:\Users\mumse\Desktop\Skole Programering\Character_Creator_V2\Character_Creator_V2\obj\Debug\net6.0\Character_Creator_V2.genruntimeconfig.cache
